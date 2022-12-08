@@ -1,6 +1,7 @@
 # BlogPost
-3422IS
-Universidad Politecnica de Tecamác
+-3422IS
+
+-Universidad Politecnica de Tecamác
 # Integrantes: 
 -Irvin Segura Ortiz
 
